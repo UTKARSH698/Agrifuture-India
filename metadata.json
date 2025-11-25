@@ -1,0 +1,7 @@
+{
+  "name": "AgriFuture",
+  "description": "A premium, AI-driven crop recommendation system for the Indian agricultural sector featuring a cinematic UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
